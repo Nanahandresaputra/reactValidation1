@@ -1,0 +1,19 @@
+.form {
+    margin: 10vh 4rem ;
+    
+}
+.fieldset {
+    width: 40rem;
+    margin: 10% 31%;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+.fsSmall {
+    font-weight: lighter;
+    font-size: smaller;
+}
+.errNotif {
+    color: red;
+    margin: 0;
+}
